@@ -1,0 +1,13 @@
+NNKWEB-Business-Website
+
+├── README.md
+├── public
+├── src
+│   ├── app
+│   ├── components
+│   ├── sections
+│   ├── lib
+│
+├── assets
+├── docs
+└── screenshots
